@@ -1,3 +1,4 @@
+//lab1D.c
 #include <stdio.h>
 
 void click(int *a, int *b){
